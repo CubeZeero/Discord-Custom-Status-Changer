@@ -3,6 +3,12 @@ Discord Custom Status Changer
 >このプログラムはTOSに反しています。自己責任でどうぞ
 
 ## Run
+requestsをインストール
+
+```
+pip install requests
+```
+
 **status_list.txt**にステータスをセット
 
 **token.txt**に特殊トークンをセット
